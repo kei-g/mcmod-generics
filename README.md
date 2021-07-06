@@ -1,3 +1,3 @@
 # generics
 
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-orange.svg)](https://opensource.org/licenses/BSD-3-Clause)
+![GitHub](https://img.shields.io/github/license/kei-g/mcmod-generics?style=plastic)
